@@ -1,8 +1,8 @@
 [submodule "pthread9x"]
 	path = pthread9x
-	url = https://github.com/JHRobotics/pthread9x
+	url = https://github.com/LuizRafael79/pthread9x.git
 	branch = main
 [submodule "nocrt"]
 	path = nocrt
-	url = https://github.com/JHRobotics/nocrt
+	url = https://github.com/LuizRafael79/nocrt.git
 	branch = main
